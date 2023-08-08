@@ -1,0 +1,28 @@
+header {
+  background-color: #f5f5dd;
+  height: 690px;
+  width: 300px;
+}
+div {
+  margin-left: 72px;
+}
+.one {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(0 0 0);
+}
+.two {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(0 0 0/ 70%);
+}
+.three {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(0 0 0/ 40%);
+}
+.for {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(0 0 0/ 20%);
+}
